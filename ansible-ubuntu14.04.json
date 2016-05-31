@@ -1,0 +1,40 @@
+{
+	"jpsType": "update",
+	"jpsVersion": "0.3",
+	"application": {
+		"name": "ansible/ubuntu14.04-ansible",
+		"version": "",
+		"type": "",
+		"homepage": "https://hub.docker.com/r/ansible/ubuntu14.04-ansible/",
+		"logo": "https://raw.githubusercontent.com/JelasticJPS/ansible-ubuntu14.04/master/images/ansible.png",
+		"description": {
+			"text": ""
+		},
+		"categories": ["dockers/stacks"],
+		"env": {
+			"topology": {
+				"engine": "",
+				"nodes": [],
+				"ssl": false,
+				"ha": false
+			}
+		},
+		"dockerImage": {
+			"name": "ansible/ubuntu14.04-ansible",
+			"registry": "",
+			"username": "",
+			"password": ""
+		},
+		"settings": {
+			"fields": [{
+					"type": "dockertags",
+					"name": "tag",
+					"values": [{
+							"name": "latest"
+						}
+					]
+				}
+			]
+		}
+	}
+}
