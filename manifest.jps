@@ -6,7 +6,7 @@
 		"version": "",
 		"type": "",
 		"homepage": "https://hub.docker.com/r/ansible/ubuntu14.04-ansible/",
-		"logo": "https://raw.githubusercontent.com/jelastic-jps/ansible-ubuntu14.04/master/images/ansible.png",
+		"logo": "https://raw.githubusercontent.com/jelastic-jps/ansible-ubuntu-14.04/master/images/ansible.png",
 		"description": {
 			"text": ""
 		},
